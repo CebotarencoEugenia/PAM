@@ -1,4 +1,4 @@
-package com.example.lab1pam
+package com.example.laborator2pam
 
 import io.flutter.embedding.android.FlutterActivity
 
